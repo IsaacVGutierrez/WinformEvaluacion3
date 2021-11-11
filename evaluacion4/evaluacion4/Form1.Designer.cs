@@ -112,7 +112,7 @@ namespace evaluacion4
             // 
             // txtprecio
             // 
-            this.txtprecio.Location = new System.Drawing.Point(561, 80);
+            this.txtprecio.Location = new System.Drawing.Point(559, 79);
             this.txtprecio.Name = "txtprecio";
             this.txtprecio.Size = new System.Drawing.Size(156, 20);
             this.txtprecio.TabIndex = 5;
